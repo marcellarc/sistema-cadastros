@@ -1,6 +1,7 @@
 <div align="center">
-  
+  <h1>
 Sistema de Cadastros
+  </h1>
 </div>
 
 <p> fiz esse sistema de cadastros em typescript utilizando o framework angular, um desafio proposto pela empresa ModalGR. </p>
